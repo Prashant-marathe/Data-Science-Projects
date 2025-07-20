@@ -21,8 +21,6 @@ This repository showcases a collection of data science projects focused on **Exp
   *(Specify source or context, e.g., Google Play Store apps, Google Trends data)*  
   Provide details about the specific Google dataset used and the scope of analysis.
 
-- **Other Datasets:**  
-  List and briefly describe any additional datasets explored in this repository.
 
 ---
 
